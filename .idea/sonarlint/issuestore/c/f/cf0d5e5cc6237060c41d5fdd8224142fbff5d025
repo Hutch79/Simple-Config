@@ -1,0 +1,6 @@
+
+g	java:S112&"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‡õÍˆİ1
+g	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‰õÍˆİ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œã±ùÿÿÿÿ8ŠõÍˆİ1
+B
+java:S1075$"&Remove this hard-coded path-delimiter.(ù¬Á;8˜õÍˆİ1
